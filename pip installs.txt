@@ -1,0 +1,1 @@
+pip install xlrd python-win32com pandas selenium PyQt4-4.11.4-cp27-none-win_amd64.whl openpyxl xlwt unicodecsv webdriver_manager
